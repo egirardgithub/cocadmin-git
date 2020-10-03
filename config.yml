@@ -1,15 +1,7 @@
-<<<<<<< HEAD
 config:
 - coca
 - orangina
 - fanta
 - pepsi
 - Perrier
-=======
-config:
-- coca
-- orangina
-- fanta
-- pepsi
-- perrier
->>>>>>> test-conflict
+- eau
